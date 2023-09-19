@@ -1,0 +1,3 @@
+-- SHOW DATABASES;
+-- CREATE DATABASE Voter_Registry;
+-- USE Voter_Registry;
