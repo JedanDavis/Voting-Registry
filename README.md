@@ -60,4 +60,3 @@ The database schema consists of several entities and relationships, including:
 - Ensure to follow the provided instructions in the correct order to set up and use the database.
 - Refer to `Voter_Registry.ipynb` for Jupyter notebook file with a description of each cell's functionality.
 
-For any further assistance or inquiries, please contact [Your Name].
